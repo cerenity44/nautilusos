@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=BlobeVM.txt
+Type=Link
+URL[$e]=file:$HOME/Desktop/BlobeVM.txt
+X-KDE-LastOpenedWith=org.kde.kwrite
